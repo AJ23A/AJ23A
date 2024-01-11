@@ -3,9 +3,11 @@
  <img src="https://komarev.com/ghpvc/?username=fabioc9675" alt="fabioc9675" /> 
 <p align="center">
 
+# 🛰️ About Me 🔭:
+
 -   📃 [My Resume](./ResearcherCV.pdf) (January 2024)
 
--   🔭 I’m currently working on **Image Processing**
+-   💻 I’m currently working on **Image Processing**
 
 -   🌱 I’m currently learning **Machine Learning**
 
