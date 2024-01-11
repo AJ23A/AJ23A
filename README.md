@@ -25,7 +25,7 @@
 <h2 align="center">📊 Github Statistics </h2>
 <p align="center">
  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aj23a&" alt="aj23a">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=aj23a&theme=react&background=0d1117&border=666">
   </a>
 </p>
 
