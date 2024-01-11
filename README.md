@@ -28,3 +28,5 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aj23a&" alt="aj23a">
   </a>
 </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj23a&layout=compact&theme=tokyonight&custom_title=Top%20Languages">  </p>
