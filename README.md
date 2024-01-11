@@ -1,6 +1,6 @@
 <h1 align="left">Hi there 👋, I'm Josué Aldana</h1>
 <h3 align="left">Building & Learning</h3>
- <img src="https://komarev.com/ghpvc/?username=fabioc9675" alt="fabioc9675" /> 
+ <img src="https://komarev.com/ghpvc/?username=aj23a" alt="aj23a" /> 
 <p align="left">
 
 # 🛰️ About Me 🔭:
