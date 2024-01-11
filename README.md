@@ -1,25 +1,15 @@
-<h1 align="center">Hi there 👋, I'm Fabian Castaño</h1>
+<h1 align="center">Hi there 👋, I'm Josué Aldana</h1>
 <h3 align="center">A Passionate Researcher and Open Source Geek.</h3>
  <img src="https://komarev.com/ghpvc/?username=fabioc9675" alt="fabioc9675" /> 
 <p align="center">
 
--   📃 My Resume as of June 2022 - <a href = "https://drive.google.com/file/d/1MqWNVnBY64GBHtRJnBUdBLBXO6GBIarW/view?usp=sharing">Resume</a>
+-   📃 [My Resume](./ResearcherCV.pdf) (January 2024)
 
--   📝 My research profile - <a href = "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001565061">CvLAC</a>
-
--   🔭 I’m currently working on **ReactJS and NodeJS**
+-   🔭 I’m currently working on **Image Processing**
 
 -   🌱 I’m currently learning **Machine Learning and TensorFlow**
 
--   🤔 I’m looking for help with **MERN Stack Development**
-
--   📝 I regulary produce content on <a href = "https://www.youtube.com/channel/UCWdd0P8N_Ug6H5iSZgOykQg">Youtube</a>
-
--   ⚡ Check out my Portfolio Website <a href = "https://www.fabiancastano.com/">Here</a>
-
--   📫 How to reach me **fabioc9675@gmail.com**
-
--   ⚡ Fun fact **I am debugging like a detective in a crime movie where I am also the Murderer**
+-   📫 How to reach me **jaldana.aguilar@ieee.org**
 
 Bioengineer (2013), MSc in Engineering (2017), and PhD in Electronics Engineering and Computer Science (2021) by the University of Antioquia (UdeA). I am currently professor in Physics department of the University of Antioquia and member of the research groups in Bioinstrumentation and Clinical Engineering and, Microelectronics and Scientific Instrumentation of the same University in Medellín, Colombia.
 
