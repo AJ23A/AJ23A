@@ -1,5 +1,5 @@
 <h1 align="left">Hi there 👋, I'm Josué Aldana</h1>
-<h3 align="left">Building & learning</h3>
+<h3 align="left">Building & Learning</h3>
  <img src="https://komarev.com/ghpvc/?username=fabioc9675" alt="fabioc9675" /> 
 <p align="left">
 
