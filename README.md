@@ -7,7 +7,7 @@
 
 -   🔭 I’m currently working on **Image Processing**
 
--   🌱 I’m currently learning **Machine Learning and TensorFlow**
+-   🌱 I’m currently learning **Machine Learning**
 
 -   📫 How to reach me **jaldana.aguilar@ieee.org**
 
