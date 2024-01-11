@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aj23a&label=Profile%20views&color=0e75b6&style=flat" alt="aj23a" /> </p>
 
-- 📃 [My Resume (January 2024)](./ResearcherCV.pdf)
+- 📃 [My Resume](./ResearcherCV.pdf) (January 2024)
 
 - 🌱 I’m currently learning **Convolutional neural networks**
 
