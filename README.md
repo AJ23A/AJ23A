@@ -13,7 +13,7 @@
 
 -   📫 How to reach me **jaldana.aguilar@ieee.org**
 
-<h3 align="center">Technologies I am currently work.</h3>
+<h3 align="left">Technologies I am currently work.</h3>
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![React](https://img.shields.io/badge/-React-000?&logo=React) ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB) ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow) ![Swift](https://img.shields.io/badge/-Altium%20Designer-000?&logo=altiumdesigner) ![Xilinx](https://img.shields.io/badge/-Xilinx-000?&logo=xilinx)
 
