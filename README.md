@@ -15,9 +15,9 @@
 
 <h3 align="center">Technologies I am currently work.</h3>
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![C++](https://img.shields.io/badge/-\-000?&logo=cplusplus) ![C](https://img.shields.io/badge/-\-000?&logo=c)![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino) ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV) ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js) ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow) ![Swift](https://img.shields.io/badge/-Altium%20Designer-000?&logo=altiumdesigner) ![Xilinx](https://img.shields.io/badge/-Xilinx-000?&logo=xilinx)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![C++](https://img.shields.io/badge/-\-000?&logo=cplusplus) ![C](https://img.shields.io/badge/-\-000?&logo=c)![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino) ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow) ![autodesk](https://img.shields.io/badge/-Autodesk-000?&logo=autodesk)![Swift](https://img.shields.io/badge/-Altium%20Designer-000?&logo=altiumdesigner) ![Xilinx](https://img.shields.io/badge/-Xilinx-000?&logo=xilinx)![espressif](https://img.shields.io/badge/-Espressif-000?&logo=espressif)  ![latex](https://img.shields.io/badge/-LaTeX-000?&logo=latex) ![Django](https://img.shields.io/badge/-Django-000?&logo=django) 
 
-![espressif](https://img.shields.io/badge/-Espressif-000?&logo=espressif) ![autodesk](https://img.shields.io/badge/-Autodesk-000?&logo=autodesk) ![stmicroelectronics](https://img.shields.io/badge/-STMicroelectronics-000?&logo=stmicroelectronics) ![delphi](https://img.shields.io/badge/-Delphi-000?&logo=delphi) ![adobephotoshop](https://img.shields.io/badge/-Adobe%20Photoshop-000?&logo=adobephotoshop) ![mysql](https://img.shields.io/badge/-MySQL-000?&logo=mysql) ![latex](https://img.shields.io/badge/-LaTeX-000?&logo=latex) ![Django](https://img.shields.io/badge/-Django-000?&logo=django) 
+
 
  
 </p>
