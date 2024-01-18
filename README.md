@@ -5,7 +5,7 @@
 
 # 🛰️ About Me 🔭:
 
--   📃 [My Resume](./ResearcherCV.pdf) (January 2024)
+-   📃 [My Resume](./ResearcherCV.pdf) 
 
 -   💻 I’m currently working on **Image Processing**
 
