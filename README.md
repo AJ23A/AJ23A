@@ -9,7 +9,7 @@
 
 -   💻 I’m currently working on **Image Processing**
 
--   🌱 I’m currently learning **Deep Learning**
+-   🌱 I’m currently learning about **Deep Learning**
 
 -   📫 How to reach me **jaldana.aguilar@ieee.org**
 
